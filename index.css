@@ -266,7 +266,19 @@
     font-weight: bold;
     line-height: 0.643;
     text-align: left;
+    margin: 0;
+}
+
+.card__block{
+    display: flex;
     margin-top: 57px;
+    margin-right: 20px;
+    justify-content: space-between;
+
+}
+
+.card__basket{
+    width: 30px;
 }
 
 .page__indicator {
